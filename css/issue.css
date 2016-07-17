@@ -1,0 +1,32 @@
+
+
+.item-content {
+	height: 25px !important;
+	font-size: 14px !important;
+}
+
+.item-title.label.desc {
+	margin-right: 10px !important;
+}
+
+.item-title.label.details {
+	margin-left: 10px !important;
+	/*border: 1px solid red !important;*/
+	width: 55% !important;
+}
+
+.item-title.label.details.price {	
+	width: 57% !important;
+	/*border: 1px solid red !important;*/
+}
+
+.content-block.header {
+	margin-top: -15px;
+	margin-bottom: -15px;
+}
+
+.content-block.inner {
+	margin-top: -25px;
+	margin-bottom: -15px;
+}
+
